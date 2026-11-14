@@ -1,0 +1,7 @@
+*.bin
+*.wav
+*.mov
+*.mp4
+*.m4a
+.DS_Store
+.env

@@ -1,0 +1,6 @@
+künstliche Intelligenz, kurz KI. Aber wie funktioniert das eigentlich? Ganz einfach
+erklärt. KI wird mit riesigen Mengen an Informationen trainiert. Dabei erkennt sie
+Muster und Zusammenhänge. Wenn wir beispielsweise ChatGPT eine Frage stellen, berechnet das System
+anhand dieser erlernten Muster, welche Antwort am besten passt. KI denkt also nicht wie ein Mensch
+und hat auch kein eigenes Bewusstsein. Sie kann aber erstaunlich gut menschliche Fähigkeiten
+nachahmen.
